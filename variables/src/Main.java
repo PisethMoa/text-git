@@ -14,5 +14,7 @@ public class Main {
         System.out.println(o);
         System.out.println(jmr);
         System.out.println(thork);
+
+        System.out.println("Fuck you seth");
     }
 }
